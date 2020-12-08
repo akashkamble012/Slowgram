@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754645780116",
+    "firebase_url": "https://slowgram-e8c36.firebaseio.com",
+    "project_id": "slowgram-e8c36",
+    "storage_bucket": "slowgram-e8c36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754645780116:android:b0b28ebc826708b1fed681",
+        "android_client_info": {
+          "package_name": "com.akashkamble.slowgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754645780116-7f97jm60tp4rlsj0genf3sht1se4nrm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVuqJKLPYAp5ZHRvtcE7XQUupYbHApdlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754645780116-7f97jm60tp4rlsj0genf3sht1se4nrm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
